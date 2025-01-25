@@ -1,0 +1,9 @@
+io/
+l1/
+fayl.
+txt
+bu
+fayl
+qo'shib
+yozish
+uchun

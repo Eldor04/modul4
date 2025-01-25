@@ -1,0 +1,8 @@
+blue : ko'k
+red : qizil
+yellow : sariq
+black : qora
+white : oq
+green : yashil
+grey : kulrang
+pink : pushti

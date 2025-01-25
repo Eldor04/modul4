@@ -1,0 +1,19 @@
+
+    RED(4,"STOP"),
+    GREEN(5,"GO");
+    private String message;
+    Color(int seconds, String message) {
+        this.message = message;
+
+        return seconds;
+
+        this.seconds = seconds;
+
+        return message;
+
+        this.message = message;
+
+    public String toString() {
+                "seconds=" + seconds +
+                '}';
+}

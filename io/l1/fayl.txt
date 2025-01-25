@@ -1,0 +1,4 @@
+io/
+l1/
+fayl.
+txt
