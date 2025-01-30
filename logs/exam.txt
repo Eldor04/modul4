@@ -1,0 +1,8 @@
+2025:01:30 17:07:48
+SEVERE: This Severe log
+2025:01:30 17:07:48
+SEVERE: Exception
+java.lang.RuntimeException
+	at examExamples.task4.LogTest.exception(LogTest.java:30)
+	at examExamples.task4.LogTest.main(LogTest.java:24)
+

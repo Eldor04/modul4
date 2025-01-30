@@ -1,10 +1,12 @@
 package lesson3.classWork;
 
-public class AtomicReference {
+import java.util.concurrent.atomic.AtomicReference;
+
+public class AtomicReferenceTest {
 
     public static void main(String[] args) throws InterruptedException {
 
-        java.util.concurrent.atomic.AtomicReference<Account> accountRef = new java.util.concurrent.atomic.AtomicReference<>(new Account());
+        AtomicReference<Account> accountRef = new AtomicReference<>(new Account());
 
 
         Runnable runnable1 = () -> {

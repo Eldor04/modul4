@@ -12,8 +12,8 @@ public class Counter {
         var counter = new Counter();
         Runnable runnable = () -> {
             for ( int i = 0; i < 1000; i++ ) {
-                System.out.println(Thread.currentThread() + "::" + counter.incrementAndGet());
-
+//                System.out.println(Thread.currentThread() + "::" + counter.incrementAndGet());
+counter.incrementAndGet();
                 try {
                     Thread.sleep(1);
                 } catch (InterruptedException e) {
